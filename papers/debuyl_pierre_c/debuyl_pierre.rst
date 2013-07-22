@@ -2,9 +2,9 @@
 :email: pdebuyl@ulb.ac.be
 :institution: Université libre de Bruxelles
 
-----------------------------------------------------------
-Re-Submitting a contribution to EuroSciPy 2013 proceedings
-----------------------------------------------------------
+-------------------------------------------------------------
+Re-Re-Submitting a contribution to EuroSciPy 2013 proceedings
+-------------------------------------------------------------
 
 .. class:: abstract
 
