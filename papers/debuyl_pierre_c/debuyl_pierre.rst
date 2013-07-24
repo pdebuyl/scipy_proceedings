@@ -47,10 +47,35 @@ We may test the assumption, if needed, in Python:
 
        return n_papers <= n_contrib
 
+Process
+-------
+
+The submission process, from the point of view of an author, is the
+following
+
+1. Fork the repository https://github.com/euroscipy/scipy_proceedings
+   on your own github account.
+2. Clone said repository on your computer::
+
+     git clone git@github.com:MYLOGIN/scipy_proceedings
+
+3. Following the template provided, write your contribution.
+4. Add your files and push your modifications to github::
+
+     git add papers/MYNAME
+     git commit -m "Addition of paper by MYNAME"
+     git push
+
+5. Visit https://github.com/euroscipy/scipy_proceedings , follow the
+   ``Pull Request`` link and click on ``New pull request``. The pull
+   request should be from your own repository to the
+   euroscipy/scipy_proceedings repository.
+
+
 Filling
 -------
 
-An short (few paragraphs) paper compiles fines but then all floating
+A short (few paragraphs) paper compiles fines but then all floating
 elements (figures and tables) collapse at the top and this leads to
 very ugly papers.
 
